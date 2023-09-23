@@ -1,1 +1,3 @@
-
+What is the difference between a merge and a rebase?
+Merge combines two or more development histories, preserving history while rebase
+rewrites it.
